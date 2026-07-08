@@ -10,11 +10,6 @@ I'm currently pursuing B.Tech in Computer Science.
 - Git & GitHub
 - Backend Development
 
-### 🎯 2026 Goals
-- Solve 500+ LeetCode Problems
-- Build meaningful real-world projects
-- Contribute to Open Source
-- Crack a Software Engineering Internship
 
 ---
 
