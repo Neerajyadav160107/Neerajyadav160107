@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Neeraj Yadav
 
-<!--
-**Neerajyadav160107/Neerajyadav160107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm currently pursuing B.Tech in Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+- Backend Development
+
+### 🎯 2026 Goals
+- Solve 500+ LeetCode Problems
+- Build meaningful real-world projects
+- Contribute to Open Source
+- Crack a Software Engineering Internship
+
+---
+
+## 🛠 Tech Stack
+
+- C++
+- Python
+- Git
+- GitHub
+- VS Code
+- macOS
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [Neeraj Yadav](https://www.linkedin.com/in/neeraj-yadav-036b40271/)
+- Portfolio: *(Coming Soon)*
+
+---
+
+> *"Consistency beats intensity."*
