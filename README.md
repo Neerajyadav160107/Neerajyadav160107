@@ -19,7 +19,6 @@ I'm currently pursuing B.Tech in Computer Science.
 - Python
 - Git
 - GitHub
-- VS Code
 - macOS
 
 ---
