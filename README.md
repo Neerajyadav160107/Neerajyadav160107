@@ -15,11 +15,11 @@ I'm currently pursuing B.Tech in Computer Science.
 
 ## 🛠 Tech Stack
 
+- C
 - C++
 - Python
 - Git
 - GitHub
-- macOS
 
 ---
 
