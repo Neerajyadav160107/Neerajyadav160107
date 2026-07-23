@@ -23,7 +23,7 @@ I'm currently pursuing B.Tech in Computer Science.
 
 ---
 
-## 📫 Connect with Me
+## 📫 How to connect with Me
 
 - LinkedIn: [Neeraj Yadav](https://www.linkedin.com/in/neeraj-yadav-036b40271/)
 - Mail: neerajyadav160107@gmail.com
