@@ -1,34 +1,50 @@
-# Hi 👋 I'm Neeraj Yadav
+# Hi there 👋, I'm Neeraj Yadav
 
 ## 💻 Aspiring Software Engineer
 
-I'm currently pursuing B.Tech in Computer Science.
-
-### 🚀 Currently Learning
-- C++
-- Data Structures & Algorithms
-- Git & GitHub
-- Backend Development
-
+I'm a B.Tech Computer Science student passionate about software engineering, problem-solving, and building a strong foundation in computer science. I'm currently focused on mastering Data Structures & Algorithms and exploring backend development.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Currently Learning
 
-- C
-- C++
-- Python
-- Git
-- GitHub
-
----
-
-## 📫 How to connect with Me
-
-- LinkedIn: [Neeraj Yadav](https://www.linkedin.com/in/neeraj-yadav-036b40271/)
-- Mail: neerajyadav160107@gmail.com
-- Portfolio: *(Coming Soon)*
+* C++
+* Data Structures & Algorithms
+* Git & GitHub
+* Backend Development
 
 ---
 
-> *"Consistency beats intensity."*
+## 🛠️ Tech Stack
+
+### Languages
+
+* C
+* C++
+* Python
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 💻 Coding Profiles
+
+* 🟠 **LeetCode:** https://leetcode.com/u/neeraj_y1601/
+* 🟢 **Codolio:** https://codolio.com/profile/Neeraj_1601
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/neeraj-yadav-036b40271/
+* 📧 **Email:** [neerajyadav160107@gmail.com](mailto:neerajyadav160107@gmail.com)
+* 🌐 **Portfolio:** *Coming Soon*
+
+---
+
+> **"Discipline compounds. Results follow."**
+
