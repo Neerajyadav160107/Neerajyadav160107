@@ -1,4 +1,4 @@
-# Hi there , I'm Neeraj Yadav
+# Hi there, I'm Neeraj Yadav
 
 ## 💻 Aspiring Software Engineer
 
