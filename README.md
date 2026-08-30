@@ -53,7 +53,7 @@ An AI-powered civic complaint management system that allows users to report publ
 
 The system uses Google Gemini to analyze complaints, determine urgency, recommend departments, analyze images, and detect possible duplicate complaints.
 
-**Built with:** React · Vite · Node.js · Express · Google Gemini · Firebase Firestore
+**Built with:** React, JavaScript, Node.js, Express.js, Gemini API, Firebase Firestore
 
 🔗 **Live Demo:** [https://civic-pulse-ai-ruddy-six.vercel.app](https://civic-pulse-ai-ruddy-six.vercel.app)
 
