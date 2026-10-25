@@ -76,4 +76,4 @@ The system uses Google Gemini to analyze complaints, determine urgency, recommen
 
 ---
 
-> **"Discipline compounds. Results follow."**
+> **“Man is made by his belief. As he believes, so he is.”**
